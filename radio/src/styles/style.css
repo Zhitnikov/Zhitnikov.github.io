@@ -32,7 +32,7 @@ img {
 
 .homepage {
   height: 800px;
-  background: url(main_bg.jpg) no-repeat center/cover;
+  background: url(../img/main_bg.jpg) no-repeat center/cover;
   padding-top: 22px;
   text-align: center;
 }
@@ -45,7 +45,7 @@ img {
 }
 
 .after-comp {
-  background: url(after_comp_bg.jpg) no-repeat center/cover;
+  background: url(../img/after_comp_bg.jpg) no-repeat center/cover;
   padding: 16px;
   height: 450px;
 }
@@ -119,7 +119,7 @@ h1, .subheader {
 
 .awaits_page {
   height: 592px;
-  background: url(img.png);
+  background: url(../img/img.png);
   padding-top: 16px;
   text-align: center;
 }
@@ -388,7 +388,7 @@ h1, .subheader {
 }
 
 .footer-section {
-  background: url("footer.png");
+  background: url("../img/footer.png");
   height: 165px;
 }
 
