@@ -1,5 +1,3 @@
-# 🌐 Zhitnikov.github.io
-
 ## 🚀 Live Web Projects
 
 ### 🏺 [Ceramic Soul — магазин керамики](https://zhitnikov.github.io/vase/dist/)
